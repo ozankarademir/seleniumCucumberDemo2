@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="53b4ec07-0383-4da7-b48c-503a4fcc4fa2" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1TcD5g87HkVjEUbhkg7HURrqteO" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../protel-master" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Ozan\Desktop\JustmobWeb" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Cucumber java.Feature: Assigment (1)">
+    <configuration name="Feature: Assigment (1)" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/Features/Assigment.feature" />
+      <option name="GLUE" value="CucumberOptions Stepdefinition" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="demoAutomationPractice" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
+      <option name="SUGGESTED_NAME" value="Feature: Assigment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: Assigment" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/Features/Assigment.feature" />
+      <option name="GLUE" value="Stepdefinition" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="JustmobWeb" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
+      <option name="SUGGESTED_NAME" value="Feature: Assigment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Login and Order a cleaner" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/Features/Assigment.feature" />
+      <option name="GLUE" value="Stepdefinition" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="JustmobWeb" />
+      <option name="NAME_FILTER" value="^Login and Order a cleaner$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^Login and Order a cleaner$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Login and Order a cleaner" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber java.Feature: Assigment (1)" />
+        <item itemvalue="Cucumber java.Scenario: Login and Order a cleaner" />
+        <item itemvalue="Cucumber java.Feature: Assigment" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="53b4ec07-0383-4da7-b48c-503a4fcc4fa2" name="Default Changelist" comment="" />
+      <created>1573750308937</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573750308937</updated>
+      <workItem from="1573750310138" duration="963000" />
+      <workItem from="1573767383918" duration="26137000" />
+      <workItem from="1574070450652" duration="2015000" />
+      <workItem from="1574072998084" duration="84000" />
+      <workItem from="1574073386856" duration="100000" />
+      <workItem from="1574168133133" duration="2352000" />
+      <workItem from="1574284374117" duration="163000" />
+      <workItem from="1574284730056" duration="1417000" />
+      <workItem from="1574286455781" duration="250000" />
+      <workItem from="1574286737780" duration="35000" />
+      <workItem from="1574286923743" duration="1600000" />
+      <workItem from="1574288742230" duration="100000" />
+      <workItem from="1574289202886" duration="922000" />
+      <workItem from="1574291555072" duration="1789000" />
+      <workItem from="1574293362376" duration="1802000" />
+      <workItem from="1574339378639" duration="1787000" />
+      <workItem from="1574341183141" duration="2093000" />
+      <workItem from="1574343316382" duration="1793000" />
+      <workItem from="1574346461334" duration="1808000" />
+      <workItem from="1574348373574" duration="1791000" />
+      <workItem from="1574350184224" duration="1115000" />
+      <workItem from="1574351992785" duration="1898000" />
+      <workItem from="1574353922173" duration="1793000" />
+      <workItem from="1574355751170" duration="1797000" />
+      <workItem from="1574357578217" duration="1793000" />
+      <workItem from="1574359393934" duration="1135000" />
+      <workItem from="1574361244498" duration="923000" />
+      <workItem from="1574362184658" duration="1550000" />
+      <workItem from="1574374040420" duration="1892000" />
+      <workItem from="1574375973905" duration="2059000" />
+      <workItem from="1574378058520" duration="1341000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
